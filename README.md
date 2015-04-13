@@ -14,4 +14,8 @@ Install Greasemonkey
 
 Done. You should have the new userelement now.
 
+Known Bugs:
+
+Some browser versions additionally download a file called "watch_inlineedit_ajax". This is a known YouTube bug. The script still works and the file can simply be deleted.
+
 
